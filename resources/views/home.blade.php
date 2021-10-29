@@ -89,7 +89,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 col-lg-4 card-coustom ">
-                <div class="ciccio">
+                <div class="card_custom">
                     <div class="card shadow-lg">
                         <div class="imgBx d-flex align-items-start justify-content-center">
                             <lord-icon
@@ -109,7 +109,7 @@
             </div>
             
             <div class="col-12 col-lg-4 card-coustom">
-                <div class="ciccio">
+                <div class="card_custom">
                     <div class="card shadow-lg">
                         <div class="imgBx d-flex align-items-center justify-content-center">
                             <lord-icon
@@ -130,7 +130,7 @@
             </div>
             
             <div class="col-12 col-lg-4 card-coustom">
-                <div class="ciccio">
+                <div class="card_custom">
                     <div class="card shadow-lg">
                         <div class="imgBx d-flex align-items-center justify-content-center">
                             <lord-icon

@@ -47,7 +47,7 @@
       <form action="{{route('locale', 'it')}}" method="POST" class="bandiere">
         @csrf
         <button type="submit" class="btnTransparent ">
-          <span class="flag-icon flag-icon-it "></span>
+          <span class="flag-icon flag-icon-it flag"></span>
         </button>
       </form>  
     </li>
@@ -55,7 +55,7 @@
       <form action="{{route('locale', 'en')}}" method="POST" class="bandiere">
         @csrf
         <button type="submit" class="btnTransparent ">
-          <span class="flag-icon flag-icon-gb "></span>
+          <span class="flag-icon flag-icon-gb flag"></span>
         </button>
       </form>  
     </li>
@@ -63,7 +63,7 @@
       <form action="{{route('locale', 'ja')}}" method="POST" class="bandiere">
         @csrf
         <button type="submit" class="btnTransparent ">
-          <span class="flag-icon flag-icon-jp "></span>
+          <span class="flag-icon flag-icon-jp flag"></span>
         </button>
       </form>  
     </li>
