@@ -14,7 +14,7 @@ class CategorySeeder extends Seeder
      */
     public function run()
     {
-      $categories=['sport','motori','elettronica','casa','giardinaggio','giochi','telefonia','informatica','abbigliamento','libri']; 
+      $categories=['sport','motori','elettronica','casa','giardinaggio','giochi','telefonia','informatica','abbigliamento','libri', 'musica']; 
       
 
       foreach ($categories as $category){
